@@ -782,6 +782,23 @@ h3.my-profession {
   height: 50px;
   padding: 0 50px;
 }
+
+#emailnotified a{
+  padding-left: 47%;
+  padding-top: 1px;
+  padding-bottom: 10px;
+  text-decoration:underline;
+  font-weight: bolder;
+  font-size: larger;
+}
+#emailnotified p{
+  padding-left: 37%;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  font-weight: bolder;
+  font-size: large;
+  color: var(--text-black-700);
+}
 @media (max-width: 1199px) {
   .section .comtainer {
     padding-top: 70px;
